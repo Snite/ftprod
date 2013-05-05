@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="1" hostname="Snite" id="0" name="CaisseControllerTests" package="fr.ftprod.pizzeria" tests="1" time="2.355" timestamp="2013-05-03T11:56:11">
+      <properties />
+
+      <testcase classname="fr.ftprod.pizzeria.CaisseControllerTests" name="testSomething" time="2.129">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at fr.ftprod.pizzeria.CaisseControllerTests.testSomething(CaisseControllerTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="Snite" id="1" name="CaisseTests" package="fr.ftprod.pizzeria" tests="1" time="0.603" timestamp="2013-05-03T11:56:13">
+      <properties />
+
+      <testcase classname="fr.ftprod.pizzeria.CaisseTests" name="testSomething" time="0.483">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at fr.ftprod.pizzeria.CaisseTests.testSomething(CaisseTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="Snite" id="2" name="MetaProduitTests" package="fr.ftprod.pizzeria" tests="1" time="0.237" timestamp="2013-05-03T11:56:15">
+      <properties />
+
+      <testcase classname="fr.ftprod.pizzeria.MetaProduitTests" name="testSomething" time="0.097">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at fr.ftprod.pizzeria.MetaProduitTests.testSomething(MetaProduitTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="Snite" id="3" name="ProduitControllerTests" package="fr.ftprod.pizzeria" tests="1" time="0.296" timestamp="2013-05-03T11:56:15">
+      <properties />
+
+      <testcase classname="fr.ftprod.pizzeria.ProduitControllerTests" name="testSomething" time="0.216">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at fr.ftprod.pizzeria.ProduitControllerTests.testSomething(ProduitControllerTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="Snite" id="4" name="ProduitTests" package="fr.ftprod.pizzeria" tests="1" time="0.215" timestamp="2013-05-03T11:56:16">
+      <properties />
+
+      <testcase classname="fr.ftprod.pizzeria.ProduitTests" name="testSomething" time="0.071">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at fr.ftprod.pizzeria.ProduitTests.testSomething(ProduitTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="Snite" id="5" name="TableControllerTests" package="fr.ftprod.pizzeria" tests="1" time="0.295" timestamp="2013-05-03T11:56:16">
+      <properties />
+
+      <testcase classname="fr.ftprod.pizzeria.TableControllerTests" name="testSomething" time="0.212">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at fr.ftprod.pizzeria.TableControllerTests.testSomething(TableControllerTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="Snite" id="6" name="TableTests" package="fr.ftprod.pizzeria" tests="1" time="0.182" timestamp="2013-05-03T11:56:16">
+      <properties />
+
+      <testcase classname="fr.ftprod.pizzeria.TableTests" name="testSomething" time="0.073">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at fr.ftprod.pizzeria.TableTests.testSomething(TableTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Snite" id="7" name="StatusTests" package="fr.ftprod.pizzeria.content" tests="1" time="0.786" timestamp="2013-05-03T11:56:14">
+      <properties />
+
+      <testcase classname="fr.ftprod.pizzeria.content.StatusTests" name="testStatus" time="0.637" />
+
+      <system-out><![CDATA[--Output from testStatus--
+Table 1
+[]
+Calzone
+fr.ftprod.pizzeria.Produit : 1
+fr.ftprod.pizzeria.MetaProduit : 3
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testStatus--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="Snite" id="8" name="FrontCaisseControllerTests" package="fr.ftprod.pizzeria.front" tests="1" time="0.393" timestamp="2013-05-03T11:56:15">
+      <properties />
+
+      <testcase classname="fr.ftprod.pizzeria.front.FrontCaisseControllerTests" name="testSomething" time="0.234">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at fr.ftprod.pizzeria.front.FrontCaisseControllerTests.testSomething(FrontCaisseControllerTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="Snite" id="9" name="StatusControllerTests" package="ft.ftprod.pizzeria" tests="1" time="0.158" timestamp="2013-05-03T11:56:16">
+      <properties />
+
+      <testcase classname="ft.ftprod.pizzeria.StatusControllerTests" name="testSomething" time="0.156">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at ft.ftprod.pizzeria.StatusControllerTests.testSomething(StatusControllerTests.groovy:16)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
